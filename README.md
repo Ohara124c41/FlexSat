@@ -1,2 +1,15 @@
-# FlexSat
-Control Systems Design for Flexible Satellite with Star Tracker
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-01.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-02.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-03.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-04.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-05.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-06.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-07.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-08.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-09.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-10.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-11.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-12.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-13.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-14.jpg?raw=true
+![1]https://github.com/Ohara124c41/FlexSat/blob/master/images/ECE660-Ohara-Project-15.jpg?raw=true
